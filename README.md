@@ -27,5 +27,7 @@ Neste trabalho, usaremos uma simplificação do Banco de Dados da Olist para ide
 
 ## Referências
 
+[KAGGLE](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_customers_dataset.csv)
+
 
 
