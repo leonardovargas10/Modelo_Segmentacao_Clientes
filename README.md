@@ -8,7 +8,7 @@
 
 Segmentar clientes ajuda empresas a fechar melhores negócios, sendo uma vantagem competitiva frente à concorrência. O objetivo desta estratégia é aumentar a eficiência na atuação da empresa junto aos clientes, reunindo o maior número possível de informações sobre o público-alvo que pretende atingir. Dessa forma, a intensão deste projeto é segmentar os clientes, para que assim possamos enviar informações realmente úteis para a área de Marketing.
 
-Neste trabalho, usaremos uma simplificação do Banco de Dados da Olist para identificar a frequência, recência e receita dos consumidores e agrupa-los em categorias de compras. Assim podemos fazer campanhas de marketing específicas, além de criar programas de recompensas para os clientes que mais consomem.
+Neste trabalho, usaremos uma simplificação do Banco de Dados da Olist para identificar a frequência, recência e receita dos consumidores e agrupa-los em categorias de compras. Assim podemos fazer campanhas de marketing específicas, além de criar programas de recompensas para os clientes que mais consomem. Para mais informações, consultar o Notebook.
 
 ## Fundamentação Teórica
 
