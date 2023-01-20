@@ -18,11 +18,12 @@ Neste trabalho, usaremos uma simplificação do Banco de Dados da Olist para ide
 - [x] Análise de Dados 
 - [x] Técnicas de Machine Learning
 - [x] Modelagem Matemática e Estatística
+- [ ] Metodologia RFM (Segmentação de Clientes em Marketing)
 
 ## Status do Projeto
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p>
 
 ## Referências
